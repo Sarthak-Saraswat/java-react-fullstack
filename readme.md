@@ -38,12 +38,27 @@ cd client
 npm install
 npm start
 
-Features
-User registration & login
+*Session Walkthrough
 
-Product listing
+<img width="742" height="1672" alt="1" src="https://github.com/user-attachments/assets/05711092-0f39-4511-a0ec-c5a5bd5f9c6b" />
+
+<img width="808" height="1584" alt="2" src="https://github.com/user-attachments/assets/e1cb3c77-9264-4489-9a16-52d568155d75" />
+
+
+Features
+
+*User registration & login
+
+<img width="1150" height="976" alt="5" src="https://github.com/user-attachments/assets/9efed0b7-0dc3-4809-ba3f-89fd3aa87baf" />
+
+*Product listing
+
+<img width="1400" height="723" alt="3" src="https://github.com/user-attachments/assets/fc1eb692-775d-4e86-a65f-17d9840871f1" />
 
 Cart and order module
+
+<img width="1400" height="607" alt="4" src="https://github.com/user-attachments/assets/cf7acb68-8b03-4491-94bd-9cf0938251c1" />
+
 
 Admin panel (optional)
 
