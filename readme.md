@@ -40,24 +40,27 @@ npm start
 
 *Session Walkthrough
 
-<img width="742" height="1672" alt="1" src="https://github.com/user-attachments/assets/05711092-0f39-4511-a0ec-c5a5bd5f9c6b" />
+<img width="742" height="1672" alt="image" src="https://github.com/user-attachments/assets/34267576-8a42-4384-b03f-110ad2c76f63" />
 
-<img width="808" height="1584" alt="2" src="https://github.com/user-attachments/assets/e1cb3c77-9264-4489-9a16-52d568155d75" />
+
 
 
 Features
 
 *User registration & login
 
-<img width="1150" height="976" alt="5" src="https://github.com/user-attachments/assets/9efed0b7-0dc3-4809-ba3f-89fd3aa87baf" />
+<img width="1421" height="757" alt="Screenshot 2025-08-02 at 11 49 43 AM" src="https://github.com/user-attachments/assets/5bf45db1-32fe-4c03-9727-13af823c9487" />
+
 
 *Product listing
 
-<img width="1400" height="723" alt="3" src="https://github.com/user-attachments/assets/fc1eb692-775d-4e86-a65f-17d9840871f1" />
+<img width="1400" height="723" alt="image" src="https://github.com/user-attachments/assets/b71f556d-248a-44c7-8df5-dea8cf795350" />
+
 
 Cart and order module
 
-<img width="1400" height="607" alt="4" src="https://github.com/user-attachments/assets/cf7acb68-8b03-4491-94bd-9cf0938251c1" />
+<img width="1400" height="607" alt="image" src="https://github.com/user-attachments/assets/2f07c66b-10c2-4f16-a172-52a4897cfd12" />
+
 
 
 Admin panel (optional)
